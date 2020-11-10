@@ -1,0 +1,11 @@
+{
+    "name": "muter-bot",
+    "version": "1.0.0",
+    "description": "Muter bot",
+    "main": "bot.js",
+    "author": "Christopher K.",
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "winston": "^3.3.3"
+    }
+}
